@@ -10,7 +10,7 @@
 ---------------  | -----------------  | ---------
 Liza             | Charles            | 37-4676
 Youssef          | Ramy               | 37-0653
-Omar             | Zakaria            | 37-0653
+Omar             | Zakaria            | 37-1387
 Farah            | Wael               | 37-7761
 Samira           | Mahmoud            | 37-19466
 
@@ -18,7 +18,7 @@ Samira           | Mahmoud            | 37-19466
 ----------------------------------------------
 -**Liza:** I am in my third year in guc business informatics, i went to sacred heart school and i am 21 years old. I would like to finish this semester !!
 
--**Omar:** My name is omar zakaria, nickname ziko, i am 21 years old.
+-**Omar:** My name is omar zakaria, nickname ziko, i am 21 years old, i am in the guc.
 
 -**Youssef:** My name is Youssef, I am 20 years old , my faculty is BI, My university is the German University in Cairo.
 
