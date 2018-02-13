@@ -22,7 +22,7 @@ Samira           | Mahmoud            | 37-19466
 
 -**Youssef:** My name is Youssef, I am 20 years old , my faculty is BI, My university is the German University in Cairo.
 
--**Farah Wael:** An awesome 20 years old BI student.
+-**Farah Wael:** An awesome 20 years old BI student. In my third year of uni.
 
 -**Samira Mahmoud:** I am a BI student in my third yr.
 
