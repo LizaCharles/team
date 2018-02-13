@@ -18,7 +18,7 @@ Samira           | Mahmoud            | 37-19466
 ----------------------------------------------
 -**Liza:** I am in my third year in guc business informatics, i went to sacred heart school and i am 21 years old. I would like to finish this semester.
 
--**Omar:** I am a student in the GUC in business informatics, i will graduate nextt year.
+-**Omar:** My name is omar zakaria, nickname ziko, i am 21 years old.
 
 -**Youssef:** My name is Youssef, I am 20 years old , my faculty is BI, My university is the German University in Cairo.
 
