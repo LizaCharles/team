@@ -24,7 +24,7 @@ Samira           | Mahmoud            | 37-19466
 
 -**Farah Wael:** An awesome 20 years old BI student. In my third year of university.
 
--**Samira Mahmoud:** I am a BI student in my third year.
+-**Samira Mahmoud:** I am a BI student in my third year.I am 21 years old. 
 
 
 
