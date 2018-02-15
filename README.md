@@ -1,7 +1,7 @@
 # Team C4
 **Project Title:** *Sprint 0*
 
-**Getting Started:** *This repository will contain information about each team member. Moreover, a new Project board called git hub will be created in order to organize ,to do, in progress and done tasks. Furthermore, a milestone will be created and each team member will be assigned an issue to resolve.*
+**Getting Started:** *This repository will contain information about each team member. Moreover, a new Project board called git hub will be created in order to organize ,to do, in progress and done tasks. Furthermore, a milestone will be created and each team member will be assigned an issue to resolve. Moreover, each team member will create an issue to resolve by rditing the readme.md file and proposing a pull request at the same time another team member edits the same line and commits the change. Afterwards, each team member should resolve the conflict created by the merging request.*
 
 
 **Authors:**
