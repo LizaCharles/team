@@ -17,6 +17,7 @@ Samira           | Mahmoud            | 37-19466
 **Short Description about each team member**
 ----------------------------------------------
 
+
 -**Liza:** I am in my third year in guc business informatics, i went to sacred heart school and i am 21 years old. I would like to finish this semester !!!
 
 -**Omar:** My name is omar zakaria, nickname ziko, i am 21 years old, i am in the guc.
