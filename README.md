@@ -26,7 +26,9 @@ Samira           | Mahmoud            | 37-19466
 
 -**Farah Wael:** An awesome 20 years old BI student, in the German University in Cairo!
 
--**Samira Mahmoud:** I am a BI student in my third year.I am 21 years old
+-**Samira Mahmoud:** I am a BI student in my third year.I am 21 years old!
+
+
 
 
 
