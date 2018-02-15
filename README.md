@@ -1,4 +1,4 @@
-# team C4
+# Team C4
 **Project Title:** *Sprint 0*
 
 **Getting Started:** *This repository will contain information about each team member. Moreover, a new Project board called git hub will be created in order to organize ,to do, in progress and done tasks. Furthermore, a milestone will be created and each team member will be assigned an issue to resolve.*
@@ -26,7 +26,7 @@ Samira           | Mahmoud            | 37-19466
 
 -**Farah Wael:** An awesome 20 years old BI student, in the German University in Cairo.
 
--**Samira Mahmoud:** I am a BI student in my third year.I am 21 years old. ! /
+-**Samira Mahmoud:** I am a BI student in my third year.I am 21 years old.
 
 
 
